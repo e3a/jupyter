@@ -1,1 +1,1 @@
-/Qt/Tools/QtCreator/bin/qtcreator
+Tensorflow jupyter workbench
